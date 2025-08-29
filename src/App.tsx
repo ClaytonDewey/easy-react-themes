@@ -26,3 +26,4 @@ function App() {
 }
 
 export default App;
+// https://css-tricks.com/easy-dark-mode-and-multiple-color-themes-in-react/
